@@ -1,0 +1,15 @@
+{
+    "portBindings": [
+        {
+            "port": 2096,
+            "protocol": "TCP"
+        }
+    ],
+    "users": [
+        {
+            "name": "btRa6V/D+dgZ+VPCKZARwgH2",
+            "password": "vgMkaIcA3OR7iN/+/b9HjR7YrHWDEJQuiOHI5fE9FSM="
+        }
+    ],
+    "loggingLevel": "INFO"
+}
